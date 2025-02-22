@@ -40,7 +40,8 @@
 ---
 
 ## 📷 Capturas de pantalla
-*(Agrega aquí capturas de pantalla del juego para mostrar la interfaz.)*
+![image](https://github.com/user-attachments/assets/2ba762a1-8229-4993-9e06-331c947cd20a)
+
 
 ---
 
